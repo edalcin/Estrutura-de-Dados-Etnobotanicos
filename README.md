@@ -1,1 +1,2 @@
-# Sistematização de Dados da Etnobotânica
+# Estrutura de Dados Históricos de Plantas Úteis
+
