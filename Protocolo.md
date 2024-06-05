@@ -33,7 +33,7 @@ Os principais dados a serem extraídos e organizados, são:
 - Trecho que cita a *forma de uso* (na íntegra)
 - Etnia
 - Região/localidade
-- Citação (autor + data + pág)
+- Citação (autor + data)
 - Referência bibliográfica (completa)
 - Link do estudo
 - Responsável pelos dados
