@@ -2,10 +2,10 @@
 
 Introdução
 
-Este protocolo visa orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas, pesquisas e artigos com dados sobre usos de plantas e seus respectivos nomes vernaculares. O objetivo é registrar e sistematizar informações sobre o uso de plantas no Brasil, especialmente em períodos históricos no Brasil, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, alimentícios, ritualísticos e casos de toxicidade.
+Este protocolo visa orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas, pesquisas e artigos com dados sobre usos de plantas e seus respectivos nomes vernaculares. O objetivo é registrar e sistematizar informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, alimentícios, ritualísticos e casos de toxicidade.
 
 Os principais dados a serem extraídos e organizados, são:
-- Nome Vervacular
+- Nome Vernacular
 - Nome científico citado na obra + autor da spp.
 - Família botânica citada na obra 
 - Família atual
