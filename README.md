@@ -11,7 +11,7 @@ flowchart LR
     1[referência bibliográfica] --cita--> A
     1 --cita--> C
     1 --cita--> E
-    E[nome científico] -- cita --> F["nome(s) vernacular(es)"]
+    C[nome científico] -- cita --> D["nome(s) vernacular(es)"]
     A[nome vernacular] -- cita --> B["nome científico(s)"]
-    C[nome vernacular] -- possui --> D["característica(s)"]
+    A -- possui --> F["característica(s)"]
 ```
