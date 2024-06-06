@@ -4,7 +4,11 @@ Este repositório visa elaborar um protocolo e orientar a coleta e organização
 
 ## Sistematização dos dados oriundos de referências bibliográficas
 
-Consideramos, para efeito desta proposta de padrão, que dados etnobotânicos presentes em referências bibliográficas podem ser classificados em duas instâncias: a relação nome vernacular -> nome científico e a relação nome vernacular-> característica.
+Consideramos, para efeito desta proposta de padrão, que dados etnobotânicos presentes em referências bibliográficas podem ser classificados nas seguintes instâncias:
+
+* a referência cita um nome científico associado a _n_ nomes vernaculares (p.ex. Martius)
+* a referência cita um nome vernacular associado a _n_ nomes científicos
+* a referência cita um nome {vernacular, científico} associado a _n_ caracteristicas de uso
 
 ```mermaid
 flowchart LR
