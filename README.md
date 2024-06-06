@@ -17,5 +17,5 @@ flowchart LR
     1 --cita--> E
     C[nome científico] -- possui --> D["nome(s) vernacular(es)"]
     A[nome vernacular] -- possui --> B["nome científico(s)"]
-    E["nome {vernacular, científico}] -- possui --> F["característica(s)"]
+    E["nome {vernacular, científico}"] -- possui --> F["característica(s)"]
 ```
