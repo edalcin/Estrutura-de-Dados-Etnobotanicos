@@ -4,6 +4,8 @@ Este repositório visa elaborar um protocolo e orientar a coleta e organização
 
 ## Sistematização dos dados oriundos de referências bibliográficas
 
+### Estrutura de dados
+
 Consideramos, para efeito desta proposta de padrão, que dados etnobotânicos presentes em referências bibliográficas podem ser classificados nas seguintes instâncias:
 
 * a referência cita um nome científico associado a _n_ nomes vernaculares (p.ex. Martius)
@@ -20,3 +22,17 @@ flowchart LR
     E["nome {vernacular, científico}"] -- possui --> F["característica(s)"]
 ```
 Estes dados podem estar associados a outros atributos, como por exemplo a língua ou região do nome vernacular, ou a família botânica do nome científico. Entretanto, para efeito desta proposta de padrão, consideramos estas instâncias como "essenciais" (_core_) para a sistematização dos dados.
+
+### Sistematização da relação _nome científico_ -> _nome vernacular_ e _nome vernacular -> _nome científico_
+
+Para a sistematização desta instância, propomos a seguinte tabela:
+
+| genus | specificEpithet | verbatimTaxonRank| infraspecificEpithet | scientificNameAuthorship | vernacularName | source |
+| --- | --- | --- | --- | --- | --- | --- |
+| Abarma | cochiliacarpus | | | (Gomes) Barneby & J.W.Grimes | abarematemo | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
+| Physalis | angulata | | | L. | camaru | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
+| Physalis | pubescens | | | L. | camaru | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
+| Urena | lobata | subsp. | sinuata | (L.) Borss.Waalk. | carrapicho | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
+
+
+### Sistematização da relação _nome vernacular_ -> _característica_
