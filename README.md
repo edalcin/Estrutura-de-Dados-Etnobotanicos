@@ -23,16 +23,20 @@ flowchart LR
 ```
 Estes dados podem estar associados a outros atributos, como por exemplo a língua ou região do nome vernacular, ou a família botânica do nome científico. Entretanto, para efeito desta proposta de padrão, consideramos estas instâncias como "essenciais" (_core_) para a sistematização dos dados.
 
-### Sistematização da relação _nome científico_ -> _nome vernacular_ e _nome vernacular -> _nome científico_
+### Sistematização da relação _nome científico_ <-> _nome vernacular_
 
 Para a sistematização desta instância, propomos a seguinte tabela:
 
 | genus | specificEpithet | verbatimTaxonRank| infraspecificEpithet | scientificNameAuthorship | vernacularName | source |
 | --- | --- | --- | --- | --- | --- | --- |
-| Abarma | cochiliacarpus | | | (Gomes) Barneby & J.W.Grimes | abarematemo | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
-| Physalis | angulata | | | L. | camaru | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
-| Physalis | pubescens | | | L. | camaru | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
-| Urena | lobata | subsp. | sinuata | (L.) Borss.Waalk. | carrapicho | Martius, Karl Friedrich Philipp von. (2023). Plantas usadas pelos brasileiros e suas substâncias medicinais. Cord. Maria das Graças L. Brandão, trad. Antonio M. de Rezende. Belo Horizonte: Fino Traço, 2023. 244 p. |
+| Abarma | cochiliacarpus | | | (Gomes) Barneby & J.W.Grimes | abarematemo | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
+| Physalis | angulata | | | L. | camaru | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
+| Physalis | pubescens | | | L. | camaru | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
+| Urena | lobata | subsp. | sinuata | (L.) Borss.Waalk. | carrapicho | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
 
 
 ### Sistematização da relação _nome vernacular_ -> _característica_
+
+| vernacularName | usedTo | useForm | usePart | propriety | source |
+| --- | --- | --- | --- | --- | --- |
+| abarematemo |  |  |  | antimicrobiana | SANTOS, P. A. L. dos .; SANTOS, L. C. dos .; COSTA, R. de A. .; ESTEVAM, A. dos S. .; SILVA, M. R. P. da .; REIS, I. A. de O. .; OLIVEIRA, J. S. de .; ARAUJO, B. S. de .; LUCCA JUNIOR, W. de .; SANTOS, S. B. dos .; ESTEVAM, C. dos S. . Chemical profile and antimicrobial activity of abarema cochliacarpos. Research, Society and Development, [S. l.], v. 11, n. 4, p. e22911427226, 2022. DOI: 10.33448/rsd-v11i4.27226. Disponível em: https://rsdjournal.org/index.php/rsd/article/view/27226. Acesso em: 6 jun. 2024. |
