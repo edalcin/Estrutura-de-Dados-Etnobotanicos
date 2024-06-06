@@ -1,3 +1,13 @@
 # Estrutura de Dados Etnobotânicos
 
 Este repositório visa elaborar um protocolo e orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas, pesquisas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é registrar e sistematizar informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
+
+## Sistematização dos dados oriundos de referências bibliográficas
+
+Consideramos, para efeito desta proposta de padrão, que dados etnobotânicos presentes em referências bibliográficas podem ser classificados em duas instâncias: a relação nome vernacular -> nome científico e a relação nome vernacular-> característica.
+
+```mermaid
+flowchart LR
+    A[nome vernacular] -- possui --> B[nome científico]
+    C[nome vernacular] -- possui --> D[característica]
+```
