@@ -10,6 +10,6 @@ Consideramos, para efeito desta proposta de padrão, que dados etnobotânicos pr
 flowchart LR
     1[referência bibliográfica] --cita--> A
     1 --cita--> C
-    A[nome vernacular] -- possui --> B[nome científico]
-    C[nome vernacular] -- possui --> D[característica]
+    A[nome vernacular] <-- cita --> B[nome científico(s)]
+    C[nome vernacular] -- possui --> D[característica(s)]
 ```
