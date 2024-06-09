@@ -27,12 +27,12 @@ Estes dados podem estar associados a outros atributos, como por exemplo a língu
 
 Para a sistematização desta instância, propomos a seguinte tabela:
 
-| genus | specificEpithet | verbatimTaxonRank| infraspecificEpithet | scientificNameAuthorship | vernacularName | source |
-| --- | --- | --- | --- | --- | --- | --- |
-| Abarma | cochiliacarpus | | | (Gomes) Barneby & J.W.Grimes | abarematemo | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
-| Physalis | angulata | | | L. | camaru | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
-| Physalis | pubescens | | | L. | camaru | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
-| Urena | lobata | subsp. | sinuata | (L.) Borss.Waalk. | carrapicho | Martius, Karl Friedrich Philipp von, 1794-1868. Plantas usadas pelos brasileiros e suas substâncias  medicinais / Karl F. P. von Martius; coordenação Maria das Graças Lins Brandão; tradução Antônio Martinez de Rezende. - Ebook - Belo Horizonte [MG]: Fino Traço, 2023. |
+| genus | specificEpithet | verbatimTaxonRank| infraspecificEpithet | scientificNameAuthorship | vernacularName | sourceAuthor | sourceYear | sourceTitle |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Abarma | cochiliacarpus | | | (Gomes) Barneby & J.W.Grimes | abarematemo | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
+| Physalis | angulata | | | L. | camaru | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
+| Physalis | pubescens | | | L. | camaru | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
+| Urena | lobata | subsp. | sinuata | (L.) Borss.Waalk. | carrapicho | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
 
 
 ### Sistematização da relação _nome vernacular_ -> _característica_
