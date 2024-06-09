@@ -37,6 +37,6 @@ Para a sistematização desta instância, propomos a seguinte tabela:
 
 ### Sistematização da relação _nome vernacular_ -> _característica_
 
-| vernacularName | usedTo | useForm | usePart | propriety | source |
-| --- | --- | --- | --- | --- | --- |
-| abarematemo |  |  |  | antimicrobiana | SANTOS, P. A. L. dos .; SANTOS, L. C. dos .; COSTA, R. de A. .; ESTEVAM, A. dos S. .; SILVA, M. R. P. da .; REIS, I. A. de O. .; OLIVEIRA, J. S. de .; ARAUJO, B. S. de .; LUCCA JUNIOR, W. de .; SANTOS, S. B. dos .; ESTEVAM, C. dos S. . Chemical profile and antimicrobial activity of abarema cochliacarpos. Research, Society and Development, [S. l.], v. 11, n. 4, p. e22911427226, 2022. DOI: 10.33448/rsd-v11i4.27226. Disponível em: https://rsdjournal.org/index.php/rsd/article/view/27226. Acesso em: 6 jun. 2024. |
+| vernacularName | usedTo | useForm | usePart | propriety | sourceAuthor | sourceYear | sourceTitle |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| abarematemo |  |  |  | antimicrobiana | SANTOS et all. | 2024 | Chemical profile and antimicrobial activity of abarema cochliacarpos |
