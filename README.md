@@ -40,3 +40,10 @@ Para a sistematização desta instância, propomos a seguinte tabela:
 | vernacularName | usedTo | useForm | usePart | propriety | sourceAuthor | sourceYear | sourceTitle |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | abarematemo |  |  |  | antimicrobiana | SANTOS et all. | 2024 | Chemical profile and antimicrobial activity of abarema cochliacarpos |
+
+
+| vernacularName | use | sourceAuthor | sourceYear | sourceTitle |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+
