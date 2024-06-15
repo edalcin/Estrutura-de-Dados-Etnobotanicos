@@ -25,25 +25,8 @@ Estes dados podem estar associados a outros atributos, como por exemplo a língu
 
 ### Sistematização da relação _nome científico_ <-> _nome vernacular_
 
-Para a sistematização desta instância, propomos a seguinte tabela:
-
-| genus | specificEpithet | verbatimTaxonRank| infraspecificEpithet | scientificNameAuthorship | vernacularName | sourceAuthor | sourceYear | sourceTitle |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Abarma | cochiliacarpus | | | (Gomes) Barneby & J.W.Grimes | abarematemo | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
-| Physalis | angulata | | | L. | camaru | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
-| Physalis | pubescens | | | L. | camaru | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
-| Urena | lobata | subsp. | sinuata | (L.) Borss.Waalk. | carrapicho | Martius | 2023 | Plantas usadas pelos brasileiros e suas substâncias  medicinais |
-
+Para a sistematização desta instância, propomos a seguinte tabela: tabela1.csv
 
 ### Sistematização da relação _nome vernacular_ -> _característica_
 
-| vernacularName | usedTo | useForm | usePart | propriety | sourceAuthor | sourceYear | sourceTitle |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| abarematemo |  |  |  | antimicrobiana | SANTOS et all. | 2024 | Chemical profile and antimicrobial activity of abarema cochliacarpos |
-
-
-| vernacularName | use | sourceAuthor | sourceYear | sourceTitle |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-
+Para a sistematização desta instância, propomos a seguinte tabela: tabela2.csv
