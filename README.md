@@ -21,6 +21,7 @@ flowchart LR
     A[nome vernacular] -- possui --> B["nome(s) científico(s)"]
     E["nome {vernacular, científico}"] -- possui --> F["característica(s)"]
 ```
+
 Estes dados podem estar associados a outros atributos, como por exemplo a língua ou região do nome vernacular, ou a família botânica do nome científico. Entretanto, para efeito desta proposta de padrão, consideramos estas instâncias como "essenciais" (_core_) para a sistematização dos dados.
 
 ### Sistematização da relação _nome científico_ <-> _nome vernacular_
