@@ -1,6 +1,15 @@
 # Estrutura de Dados Etnobotânicos
 
-Este repositório visa elaborar um protocolo e orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é registrar e sistematizar informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
+## Motivação e Justificativa
+
+Esforços de compilação de informações sobre plantas, sob a forma de dados estruturados em sistemas computacionais fazem parte dos diversos estudos realizados por pesquisadores e estudantes de graduação e pós-graduação. Entretanto, os produtos gerados, em sua grande maioria, não seguem os princípios [FAIR](https://www.go-fair.org/fair-principles/) e [CARE](https://www.gida-global.org/care), fundamentais na gestão de dados desta natureza.
+
+Em relação ao princípio de _interoperabilidade_, um dos quatro princípios FAIR, a falta de um padrão acordado para os metadados, classes, termos e dicionários para os dados dificulta sobremaneira a implementação plena dos princípios FAIR e CARE, em sua plenitude.
+
+## Objetivo geral
+
+Este repositório visa possibilitar a criação, de forma colaborativa e inclusiva, de um padrão para orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é possibilitar o registro e sistematização, de forma padronizada, de informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
+
 
 ## Sistematização dos dados oriundos de referências bibliográficas
 
@@ -10,7 +19,7 @@ Consideramos, para efeito desta proposta de padrão, que dados etnobotânicos pr
 
 * a referência cita um nome científico associado a _n_ nomes vernaculares (p.ex. Martius)
 * a referência cita um nome vernacular associado a _n_ nomes científicos
-* a referência cita um nome {vernacular, científico} associado a _n_ caracteristicas de uso
+* a referência cita um nome {vernacular, científico} associado a _n_ características de uso
 
 ```mermaid
 flowchart LR
