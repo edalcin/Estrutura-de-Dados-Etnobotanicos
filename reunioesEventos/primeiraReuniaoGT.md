@@ -8,7 +8,7 @@
 
 * Viviane Kruel
 * Eduardo Dalcin
-* Nick Van Luijk 
+* Nicky van Luijk 
 * Luisa Ridolph
 * Camila Dantas
 * Mateus Salim
@@ -18,15 +18,17 @@
 ### Manhã
 * Apresentação da proposta de padrão de dados - estrutura e dicionários
 * Apresentação dos projetos
-  * Nick Van Luijk 
+  * Nicky van Luijk 
   * Luisa Ridolph
   * Camila Dantas
   * Mateus Salim
 
 ### Tarde
 
-* Discussão e encaminhamentos sobre od dicionários:
+* Discussão e encaminhamentos sobre os dicionários:
   * Usos
   * Forma de Uso
   * Partes Utilizadas
   * Propriedades
+
+ * Discussão sobre nomes vernaculares x nomes científicos - por onde organizar?
