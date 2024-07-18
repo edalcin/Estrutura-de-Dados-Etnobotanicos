@@ -12,6 +12,9 @@
 * Luisa Ridolph
 * Camila Dantas
 * Mateus Salim
+* Maria Paula
+* Carlos Coimbra
+* Giovana Macedo
 
 ## Agenda
 
@@ -22,11 +25,12 @@
   * Luisa Ridolph
   * Camila Dantas
   * Mateus Salim
+  * Maria Paula
 
 ### Tarde
 
 * Discussão e encaminhamentos sobre os dicionários:
-  * Usos
+  * Categorias de Usos
   * Forma de Uso
   * Partes Utilizadas
   * Propriedades
