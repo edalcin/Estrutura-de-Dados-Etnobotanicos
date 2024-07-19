@@ -3,5 +3,21 @@
 
 ## Termo: ___useForm___
 
-| nivel 1 | nivel 2 | descrição |
+Medicinal: [Fonte](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/54344/1/doc91-plantasmedicinais.pdf)
+
+| propósito | nivel 1 | descrição |
 | --- | --- | --- |
+| medicinal | banho ||
+|| cataplasma ||
+|| compressa ||
+|| decocção ||
+|| gargarejo ||
+|| inalação ||
+|| maceração ||
+|| óleos ||
+|| pós ||
+|| suco ou sumo ||
+|| tintura ||
+|| ungüento e pomada ||
+|| vinho medicinal ||
+|| xarope ||
