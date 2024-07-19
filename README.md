@@ -10,6 +10,8 @@ Em relação ao princípio de _interoperabilidade_, um dos quatro princípios FA
 
 Este repositório visa possibilitar a criação, de forma colaborativa e inclusiva, de um padrão para orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é possibilitar o registro e sistematização, de forma padronizada, de informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
 
+Em um primeiro esforço, procuramos propor e validar um cojunto de dicionários para [categorias de uso](), [formas de uso](), [partes da planta]() e [propriedades]().
+
 
 ## Sistematização dos dados oriundos de referências bibliográficas
 
