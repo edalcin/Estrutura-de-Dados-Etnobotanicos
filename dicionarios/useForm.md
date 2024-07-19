@@ -1,4 +1,4 @@
 
 # Formas de uso
 
-## Termo: ___udeForm___
+## Termo: ___useForm___
