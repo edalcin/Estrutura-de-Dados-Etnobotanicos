@@ -14,6 +14,12 @@
 
 Consolidar domínios dos termos [categoria de uso](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/useTo.md), [forma de uso](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/useForm.md), [partes da planta](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/useParts.md) e [propriedades](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/proprieties.md).
 
+### Questões para discussão
+
+* A definição de um dicionário de __propriedades__ seria muito complexo, tendo em vista a necessidade de inferência/interpretação de valores muito heterogêneos, presentes em fontes diversas?
+* As definição das __formas de uso__ deve ficar apenas no primeiro nível (propósito)? Quais seriam eles?
+  
+
 ## Participantes:
 
 * Viviane Kruel
