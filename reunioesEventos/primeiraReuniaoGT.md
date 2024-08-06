@@ -36,7 +36,7 @@ Consolidar domínios dos termos [categoria de uso](https://github.com/edalcin/Es
 
 ### Manhã
 
-* Apresentação da proposta de padrão de dados - estrutura e dicionários
+* Apresentação da proposta de padrão de dados - estrutura e dicionários (Dalcin)
 * Apresentação dos projetos
   * Nicky van Luijk (10min)
   * Luisa Ridolph (10min)
