@@ -13,7 +13,7 @@
 * Giovana de Macedo
 * Mateus Salim
 * Maria Paula
-* Alison
+* Alysson Barbosa 
 
 ## Encaminhamentos
 
