@@ -1,5 +1,8 @@
 # Memória Reunião 16/08/2024
 
+<img src="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/20240816/20240816_142302%7E2.jpg" width="800">
+
+
 ## Participantes
 * Viviane Kruel
 * Eduardo Dalcin
