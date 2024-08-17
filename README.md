@@ -1,4 +1,4 @@
-# Estrutura de Dados Etnobotânicos - [EtnoData]
+# Estruturas e Padrões de Dados para Etnobotânica - [EtnoData]
 
 ## Motivação e Justificativa
 
