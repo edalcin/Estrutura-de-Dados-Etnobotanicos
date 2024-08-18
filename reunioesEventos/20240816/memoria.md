@@ -5,7 +5,7 @@
 
 ## Participantes
 * Viviane Kruel
-* Eduardo Dalcin
+* [Eduardo Dalcin](http://lattes.cnpq.br/8334174268306003)
 * Carlos Coimbra
 * Luisa Ridolph
 * Camila Dantas
