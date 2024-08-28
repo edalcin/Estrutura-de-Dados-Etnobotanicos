@@ -21,3 +21,4 @@ Medicinal: [Fonte](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/54344/
 || ungüento e pomada ||
 || vinho medicinal ||
 || xarope ||
+|| látex ||
