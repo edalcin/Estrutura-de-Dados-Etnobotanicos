@@ -52,6 +52,7 @@
 ||papel |papel, substitutos de papel, etc |
 || cestas e recipientes feitos de fibra | utilidades domésticas, artesanato feitos com fibra, como cestaria, bolsas, cobertores, carpetes, tapetes, cortinas, almofadas, travesseiros, cortinas, jogos americanos de parede, bases para copos, redes, colchões, etc |
 || corda e redes | cordas, cabos, fios, etc |
+|| plantas tintórias |
 || outro ||
 | usos culturais | artesanato - não confeccionado a partir de fibras vegetais | esculturas em madeira, pratos, tigelas, molduras, cerâmica, coroas, etc |
 || recreativos, jogos, esportes, brinquedos, atividades | equipamento de pesca e caça, bolas, bastões esportes, raquetes, bastões, jogos de tabuleiro, dados, bonecas, quebra-cabeças, etc |
@@ -68,7 +69,7 @@
 || cobertura | tapiris, maloca, etc |
 || outro ||
 | ambiental| barreiras e limites | cercas vivas, estacas vivas, árvores de linhas, plantas para fornecer sombra e abrigos, etc |
-|| controle de erosão | quebra-ventos, retenção de água, etc |
+|| controle de erosão, estabilização de encostas| quebra-ventos, retenção de água,  etc |
 || fertilizantes e de melhoria do solo | plantas de coberturas, fixadoras de nitrogênio e melhoria da qualidade do solo, etc |
 || ornamentais | paisagismo, gramados, jardins privados, parques, gramados, urbanização, etc |
 || controle da poluição | águas residuais purificadores, redutores de poluição do ar, tratamento de esgotos, etc |
