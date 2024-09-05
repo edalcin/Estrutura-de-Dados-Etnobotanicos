@@ -60,7 +60,7 @@
 - A base antiga e estruturada no Excel, foi reorganizada no GRIST pensando nos [principais contextos](https://eduardo.dalc.in/os-contextos-da-informao-sobre-biodiversidade/#more-84) relacionados a biodiversidade proposto por Dalcin (taxônomico, temporal, temático e espacial).
 - Importânica de utilizar termos harmonicos/padrões
 - Importância de registrar os termos diretamente e de forma fiel a fonte consultada
-<img src=""https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/16-8-2024/imagem.jpg" width="600"">
+<img src ="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/16-8-2024/imagem.jpg" width="600">
 
 
 ### Apresentação Camila Dantas - Registros Etnobotânicos de Naturalistas dos Séculos XVII e XIX
