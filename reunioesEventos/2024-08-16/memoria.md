@@ -32,7 +32,7 @@
 ### Apresentação Eduardo Dalcin - Estrutura e Padrões de Dados Etnobotânicos
 
 - Banco de dados são representações da vida real
-- Os detentores devem ser vizibilizados *"Nada sobre nós sem nós"*
+- Os detentores devem ser visibilizados *"Nada sobre nós sem nós"*
 - Exemplos de padrões para a categorização de doenças (DATASUS, CID 10, EBDCS,...)
 - "Que história você quer contar com os dados?"
 - Formato JSON permite a organização dos dados em formato de documento/objeto
@@ -54,11 +54,11 @@
 
 ### Apresentação Luisa Ridolph - Documentação Científica e Análises Filogenéticas de Plantas Medicinais: um estudo de caso na Coleção Temática de Plnats Medicinais do Instituto de Pesquisas do Jardim Botânico do Rio de Janeiro
 
-- Principal objetivo da pesquisa: documetar cientificamente, elaborar, sistematizar e gerenciar uma base de dados com **evidências científicas** das espécies medicinais cultivadas na coleção e seus usos, e analisar filogeneticamente as espécies e os usos.
+- Principal objetivo da pesquisa: documentar cientificamente, elaborar, sistematizar e gerenciar uma base de dados com **evidências científicas** das espécies medicinais cultivadas na coleção e seus usos, e analisar filogeneticamente as espécies e os usos.
 - Foi realizada através de uma revisão bibliográfica em bases científicas (Scopus, PubMed, Periódicos Capes e Googlê Acadêmico)
 - Todas as evidências foram organizadas em 17 categorias de uso adaptado do Economic Botany Data Collection Standart (Cook, 1995)
-- A base antiga e estruturada no Excel, foi reorganizada no GRIST pensando nos [principais contextos](https://eduardo.dalc.in/os-contextos-da-informao-sobre-biodiversidade/#more-84) relacionados a biodiversidade proposto por Dalcin (taxônomico, temporal, temático e espacial).
-- Importânica de utilizar termos harmonicos/padrões
+- A base antiga e estruturada no Excel, foi reorganizada no GRIST pensando nos [principais contextos](https://eduardo.dalc.in/os-contextos-da-informao-sobre-biodiversidade/#more-84) relacionados a biodiversidade proposto por Dalcin (taxonômico, temporal, temático e espacial).
+- Importância de utilizar termos harmônicos/padrões
 - Importância de registrar os termos diretamente e de forma fiel a fonte consultada
 <img src ="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/16-8-2024/imagem.jpg" width="600">
 
@@ -66,7 +66,7 @@
 ### Apresentação Camila Dantas - Registros Etnobotânicos de Naturalistas dos Séculos XVII e XIX
 
 - Estuda duas principais obras, o Historia naturalis Brasiliae de Piso e Marcgraf (1648) e base sistematiza HNB de Alcântara-Rodriguez (2019 e 2021). E a outra de Martius (1843) e a versão traduzida por Graças-Brandão (2023)
-- Importância de consultar as obras orginais
+- Importância de consultar as obras originais
 - Os dados relacionados a língua são complexos e existem materias para utilizar como base (IBGE)
 
 ### Apresentação Mateus Salim - faltou o nome da apresentação
@@ -81,7 +81,7 @@
 
 ### Alysson Barbosa - breve apresentação
 
-- Irá investigar as samanbaias e os possível usos de quatro comunidades que falam 9 línguas diferente nas regiões do Morro de Seis Lagos e São Gabriel da Cachoeira
+- Irá investigar as samambaias e os possível usos de quatro comunidades que falam 9 línguas diferente nas regiões do Morro de Seis Lagos e São Gabriel da Cachoeira
 - A região do  Rio Negro há um grande potencial de diversidade de espécies devido a heterogamia de relações pessoais entre as comunidades
 
 ### Discussão final
