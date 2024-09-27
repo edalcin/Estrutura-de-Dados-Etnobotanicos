@@ -1,4 +1,4 @@
-# Proposta de pauta para a reunião 09-2024
+# Proposta de pauta para a reunião 02-09-2024
 
 1. Validação da memória da reunião 08-2024
 2. Revisar status dos encaminhamentos da reunião 08-2024
