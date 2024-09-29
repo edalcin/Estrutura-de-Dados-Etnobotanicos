@@ -33,3 +33,4 @@
    - [ ] Discussão sobre o uso de um sistema híbrido e suas aplicações.
 14. Discussão sobre ferramentas de IA;
    - [ ] Dalcin poderia comentar sobre o potencial e sua aplicabilidade para a sistematização de informações, como no uso da IA do Google - LLM.
+15. Discussão sobre o propósito e manutenção do foco do grupo - grupo de Etnobotânica ou sobre Padrões e Estruturas de Dados?
