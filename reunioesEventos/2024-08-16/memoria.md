@@ -1,6 +1,6 @@
 # Memória Reunião 16/08/2024
 
-<img src="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/16-8-2024/20240816_142302%7E2.jpg" width="800">
+<img src="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/2024-08-16/20240816_142302%7E2.jpg" width="800">
 
 
 ## Participantes
@@ -11,7 +11,7 @@
 * [Camila Dantas](http://lattes.cnpq.br/4396367747910248)
 * [Nicky van Luijk](http://lattes.cnpq.br/3013537979299517)
 * [Giovana de Macedo](http://lattes.cnpq.br/0170596104655416)
-* Mateus Salim
+* [Mateus Salim](http://lattes.cnpq.br/0248529376853174)
 * [Maria Paula Vasconcelos](http://lattes.cnpq.br/0275179451482030)
 * [Alysson Barbosa](http://lattes.cnpq.br/4849931630110151) 
 
@@ -60,7 +60,7 @@
 - A base antiga e estruturada no Excel, foi reorganizada no GRIST pensando nos [principais contextos](https://eduardo.dalc.in/os-contextos-da-informao-sobre-biodiversidade/#more-84) relacionados a biodiversidade proposto por Dalcin (taxonômico, temporal, temático e espacial).
 - Importância de utilizar termos harmônicos/padrões
 - Importância de registrar os termos diretamente e de forma fiel a fonte consultada
-<img src ="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/16-8-2024/imagem.jpg" width="600">
+<img src ="https://raw.githubusercontent.com/edalcin/Estrutura-de-Dados-Etnobotanicos/main/reunioesEventos/2024-08-16/imagem.jpg" width="600">
 
 
 ### Apresentação Camila Dantas - Registros Etnobotânicos de Naturalistas dos Séculos XVII e XIX
@@ -69,7 +69,7 @@
 - Importância de consultar as obras originais
 - Os dados relacionados a língua são complexos e existem materias para utilizar como base (IBGE)
 
-### Apresentação Mateus Salim - faltou o nome da apresentação
+### Apresentação Mateus Salim - Uso e manejo de plantas medicinais por agricultores familiares do município de Petrópolis.
 
 - Estuda sobre as plantas medicinais utilizadas no Brejal e no Bonfim localizadas na região de Petrópolis
 - Os dados foram coletados através de entrevistas e questionários semi-estruturados
