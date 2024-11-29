@@ -1,0 +1,128 @@
+{
+    "vernacularName": "Lorem",
+    "language": "Lorem",
+    "vernacularNameID": 1234,
+    "scientificName": [
+      {
+        "scientificName": "Lorem",
+        "usedRegion": [
+          {
+            "stateProvince": "Lorem",
+            "municipality": "Lorem",
+            "locality": "Lorem",
+            "voucher": [
+              {
+                "occurenceID": "Lorem"
+              }
+            ],
+            "reference": [
+              {
+                "citation": "Lorem"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "uses": [
+      {
+        "usedTo": "Lorem",
+        "use": [
+          {
+            "partUsed": [
+              "Lorem",
+              "Lorem"
+            ],
+            "useForm": "Lorem"
+          }
+        ],
+        "usedBy": [
+          {
+            "usedBy": "Lorem",
+            "voucher": [
+              {
+                "occurenceID": "Lorem"
+              }
+            ],
+            "reference": [
+              {
+                "citation": "Lorem"
+              }
+            ]
+          },
+          {
+            "testemunhoComunidade": "capixaba"
+          }
+        ],
+        "usedRegion": [
+          {
+            "stateProvince": "Lorem",
+            "municipality": "Lorem",
+            "locality": "Lorem",
+            "voucher": [
+              {
+                "occurenceID": "Lorem"
+              }
+            ],
+            "reference": [
+              {
+                "citation": "Lorem"
+              }
+            ]
+          }
+        ],
+        "voucher": [
+          {
+            "occurenceID": "Lorem"
+          }
+        ],
+        "reference": [
+          {
+            "citation": "Lorem"
+          }
+        ]
+      }
+    ],
+    "voucher": [
+      {
+        "occurenceID": "Lorem"
+      }
+    ],
+    "reference": [
+      {
+        "citation": "Lorem"
+      }
+    ],
+    "usedBy": [
+      {
+        "usedBy": "Lorem",
+        "voucher": [
+          {
+            "occurenceID": "Lorem"
+          }
+        ],
+        "reference": [
+          {
+            "citation": "Lorem"
+          }
+        ]
+      }
+    ],
+    "usedRegion": [
+      {
+        "stateProvince": "Lorem",
+        "municipality": "Lorem",
+        "locality": "Lorem",
+        "voucher": [
+          {
+            "occurenceID": "Lorem"
+          }
+        ],
+        "reference": [
+          {
+            "citation": "Lorem"
+          }
+        ]
+      }
+    ]
+  }
