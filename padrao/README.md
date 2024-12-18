@@ -4,7 +4,7 @@
 
 #### vernacularName (Core)
 
-* vernacularNameID
+* vernacularNameIDs
 * vernacularName (p.ex. "aipim")
 
 ####  Use
