@@ -1,3 +1,8 @@
+> :warning: **Warning:** Este projeto está em andamento e faz parte de um conjunto de projetos relacionados:<p>
+> [Estruturas e Padrões de Dados para Etnobotânica - (EtnoData)](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos)<br>
+> [Developing a Data Extension for Documenting Socio-Biodiversity Information](https://github.com/edalcin/cesp-sibbr-2024)<br>
+> [Vocabulário Controlado em Etnobotânica (VCEB): Conectando Saberes](https://github.com/edalcin/etnovocab)<br>
+
 # Estruturas e Padrões de Dados para Etnobotânica - [EtnoData]
 
 ## Motivação e Justificativa
