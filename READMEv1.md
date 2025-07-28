@@ -1,10 +1,9 @@
-> :warning: **Warning:** Este projeto está na Versão 2.0 e em andamento. Ele procura integrar diferentes projetos e iniciativas que compartilham da mesma demanda por organização de dados sobre uso de plantas por comunidades tradicionais, a saber:<p>
-> * [Useflora](https://www.useflora.ufsc.br/)<br>
-> * [Developing a Data Extension for Documenting Socio-Biodiversity Information](https://github.com/edalcin/cesp-sibbr-2024)<br>
-> * [Empowering Indigenous Peoples and Local Communities (IPLCs) to manage biodiversity data and information as a strategy to conserve their territories, safeguard traditional knowledge, and promote integrated biodiversity management](https://www.thegef.org/projects-operations/projects/11269)
-> * [Vocabulário Controlado em Etnobotânica (VCEB): Conectando Saberes](https://github.com/edalcin/etnovocab)<br>
+> :warning: **Warning:** Este projeto está em andamento e faz parte de um conjunto de projetos relacionados:<p>
+> [Estruturas e Padrões de Dados para Etnobotânica - (EtnoData)](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos)<br>
+> [Developing a Data Extension for Documenting Socio-Biodiversity Information](https://github.com/edalcin/cesp-sibbr-2024)<br>
+> [Vocabulário Controlado em Etnobotânica (VCEB): Conectando Saberes](https://github.com/edalcin/etnovocab)<br>
 
-# Estruturas e Padrões de Dados para Etnobotânica - ___EtnoData___ - Versão 2.0
+# Estruturas e Padrões de Dados para Etnobotânica - [EtnoData]
 
 ## Motivação e Justificativa
 
@@ -16,7 +15,7 @@ Em relação ao princípio de _interoperabilidade_, um dos quatro princípios FA
 
 Este repositório visa possibilitar a criação, de forma colaborativa e inclusiva, de um padrão para orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é possibilitar o registro e sistematização, de forma padronizada, de informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
 
-
+Em um primeiro esforço, procuramos propor e validar um cojunto de dicionários para [categorias de uso](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/useTo.md), [formas de uso](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/useForm.md), [partes da planta](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/useParts.md) e [propriedades](https://github.com/edalcin/Estrutura-de-Dados-Etnobotanicos/blob/main/dicionarios/proprieties.md).
 
 
 ## Sistematização dos dados oriundos de referências bibliográficas
