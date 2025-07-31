@@ -8,16 +8,45 @@
 
 ## Motivação e Justificativa
 
-Esforços de compilação de informações sobre plantas, sob a forma de dados estruturados em sistemas computacionais fazem parte dos diversos estudos realizados por pesquisadores e estudantes de graduação e pós-graduação. Entretanto, os produtos gerados, em sua grande maioria, não seguem os princípios [FAIR](https://www.go-fair.org/fair-principles/) e [CARE](https://www.gida-global.org/care), fundamentais na gestão de dados desta natureza.
+Esforços de compilação de informações sobre plantas, sob a forma de dados estruturados em sistemas computacionais, fazem parte dos diversos estudos realizados por pesquisadores e estudantes de graduação e pós-graduação. Em relação a fonte dos dados e informações, podemos considerar dois tipos:
 
-Em relação ao princípio de _interoperabilidade_, um dos quatro princípios FAIR, a falta de um padrão acordado para os metadados, classes, termos e dicionários para os dados dificulta sobremaneira a implementação plena dos princípios FAIR e CARE, em sua plenitude.
+### Dados Primários
+
+São informações coletadas diretamente pelo pesquisador no campo, através de contato direto com as comunidades estudadas. Incluem:
+
+**Métodos de coleta:**
+* Entrevistas estruturadas ou semi-estruturadas detentores do conhecimento tradicional
+* Observação participante durante práticas de uso de plantas
+* Caminhadas etnobotânicas com detentores locais
+* Registros fotográficos e audiovisuais das práticas
+* Coleta e herborização de espécimes botânicos citados
+
+**Características:**
+* Informações inéditas e contextualizadas
+* Refletem o conhecimento atual da comunidade
+* Permitem validação cruzada entre diferentes detentores
+* Possibilitam aprofundamento em aspectos específicos
+
+### Dados Secundários
+
+São informações já publicadas ou documentadas pesquisadores, obtidas através de fontes existentes:
+
+**Fontes principais:**
+* Artigos científicos e teses sobre etnobotânica
+* Livros e compêndios de plantas medicinais
+* Relatórios técnicos e levantamentos anteriores
+* Bases de dados etnobotânicos online
+* Documentos históricos e registros etnográficos
+
+**Características:**
+* Informações já processadas e interpretadas
+* Podem estar desatualizadas em relação às práticas atuais
+* Úteis para comparações e contextualização histórica
+* Permitem análises mais amplas e revisões sistemáticas
 
 ## Objetivo geral
 
-Este repositório visa possibilitar a criação, de forma colaborativa e inclusiva, de um padrão para orientar a coleta e organização de dados etnobotânicos a partir de consultas a publicações, incluindo obras antigas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é possibilitar o registro e sistematização, de forma padronizada, de informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
-
-
-
+Este repositório visa possibilitar a criação, de forma colaborativa e inclusiva, de um padrão para orientar a coleta e organização de dados e informações etnobotânicos __secundários__ a partir de consultas a publicações, incluindo obras antigas e artigos com dados sobre usos de plantas e seus respectivos nomes vernáculos. O objetivo principal é possibilitar o registro e sistematização, de forma padronizada, de informações sobre o uso de plantas no Brasil, especialmente de períodos históricos importantes, abrangendo todos os tipos de usos descritos, incluindo usos medicinais, nutricionais, ritualísticos e casos de toxicidade.
 
 ## Sistematização dos dados oriundos de referências bibliográficas
 
