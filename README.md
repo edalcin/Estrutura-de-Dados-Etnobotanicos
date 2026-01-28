@@ -1,8 +1,5 @@
-> :warning: **Warning:** Este projeto está na Versão 2.0 e em andamento. Ele procura integrar diferentes projetos e iniciativas que compartilham da mesma demanda por organização de dados sobre uso de plantas por comunidades tradicionais, a saber:<p>
-> * [Useflora](https://www.useflora.ufsc.br/)<br>
-> * [Developing a Data Extension for Documenting Socio-Biodiversity Information](https://github.com/edalcin/cesp-sibbr-2024)<br>
-> * [Empowering Indigenous Peoples and Local Communities (IPLCs) to manage biodiversity data and information as a strategy to conserve their territories, safeguard traditional knowledge, and promote integrated biodiversity management](https://www.thegef.org/projects-operations/projects/11269)
-> * [Vocabulário Controlado em Etnobotânica (VCEB): Conectando Saberes](https://github.com/edalcin/etnovocab)<br>
+> :warning:
+> # **Warning:** Este projeto está descontinuado. Ele foi absorvido pela proposta de ["etnoArquitetura"](https://github.com/edalcin/etnoArquitetura)
 
 # Estruturas e Padrões de Dados para Etnobotânica - ___EtnoData___ - Versão 2.0
 
